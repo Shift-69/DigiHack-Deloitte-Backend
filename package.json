@@ -4,7 +4,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "mongoose": "^6.3.0",
-    "proxy": "http://localhost:5001"
+    "proxy": "http://localhost:9001"
   },
   "scripts":{
     "data:import":"node backend/seeder"
